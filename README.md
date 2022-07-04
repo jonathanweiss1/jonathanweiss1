@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Jonathan
-- 👀 I’m interested in Machine Learning, Image Processing and Software Engineering
-- 📫 Reach me via Twitter: twitter.com/buuhuuhu
+- 📚 B. Sc. Medical Informatics
+- 👀 I’m interested in Image Processing and Software Engineering
+- 📫 Email: jonathan.weiss.ansbach@gmail.com
 
 <!---
 jonathanweiss1/jonathanweiss1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
