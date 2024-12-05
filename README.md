@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jonathan
-- 📚 B. Sc. Medical Informatics
+- 📚 M. Sc. Computer Science, B. Sc. Medical Informatics
 - 👀 I’m interested in Image Processing and Software Engineering
 - 📫 Email: jonathan.weiss.ansbach@gmail.com
 
